@@ -1,0 +1,4 @@
+build*/
+*.vtk
+*.vtu
+.DS_Store
